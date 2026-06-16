@@ -15,7 +15,7 @@ function App() {
           <li><a href="#home">pa</a></li>
           <li><a href="#features">sirt</a></li>
           <li><a href="#docs">Dress</a></li>
-          <li><a href="#social">shoes</a></li>
+          <li><a href="#social">shoesssss</a></li>
           <li><a href="#contact"></a></li>
         </ul>
       </nav>
