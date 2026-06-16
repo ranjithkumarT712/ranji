@@ -12,7 +12,7 @@ function App() {
       <nav className="top-nav">
         <div className="nav-brand">Vite React</div>
         <ul className="nav-links">
-          <li><a href="#home">pansss</a></li>
+          <li><a href="#home">pa</a></li>
           <li><a href="#features">sirt</a></li>
           <li><a href="#docs">Dress</a></li>
           <li><a href="#social">shoes</a></li>
